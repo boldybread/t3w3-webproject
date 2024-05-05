@@ -18,12 +18,12 @@
 	- Favicon
 	- Decent CSS implementation 
 		- Dark/light mode 
-		- Mobile-first design and flexbox 
-	- External fonts from Google Fonts 
+		- Mobile-first design and flexbox
+	- External fonts from Google Fonts
 
 
-## Nice-to-haves 
+## Nice-to-haves
 
 1. Examples of CSS themes generated applied to HTML elements/components 
-2. Calendar & date to timestamp CSS themes 
-3. Donate/sponsorship button in website & GH repo 
+2. Calendar & date to timestamp CSS themes
+3. Donate/sponsorship button in website & GH repo
